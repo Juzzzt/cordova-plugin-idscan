@@ -31,7 +31,7 @@
   "author": "Scandit AG",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Scandit/BarcodeScannerPlugin/issues"
+    "url": "https://github.com/Juzzzt/cordova-plugin-idscan/issues"
   },
-  "homepage": "https://github.com/Scandit/BarcodeScannerPlugin#readme"
+  "homepage": "https://github.com/Juzzzt/cordova-plugin-idscan"
 }
