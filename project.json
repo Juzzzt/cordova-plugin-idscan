@@ -1,0 +1,37 @@
+{
+  "name": "IDScanner",
+  "version": "0.1.0",
+  "description": "Plugin wrapping IDScan.net's iOS and Android ID scanner/parser SDKs",
+  "cordova": {
+    "id": "cordova-plugin-idscan",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juzzzt/cordova-plugin-idscan.git "
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4.0"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">=3.9.2"
+    }
+  ],
+  "author": "Scandit AG",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Scandit/BarcodeScannerPlugin/issues"
+  },
+  "homepage": "https://github.com/Scandit/BarcodeScannerPlugin#readme"
+}
