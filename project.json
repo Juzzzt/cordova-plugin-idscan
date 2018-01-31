@@ -28,8 +28,8 @@
       "version": ">=3.9.2"
     }
   ],
-  "author": "Scandit AG",
-  "license": "Apache-2.0",
+  "author": "amHammock",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Juzzzt/cordova-plugin-idscan/issues"
   },
